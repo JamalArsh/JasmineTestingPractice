@@ -1,0 +1,14 @@
+{
+  "name": "leela",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "karma": "^6.4.1"
+  }
+}
