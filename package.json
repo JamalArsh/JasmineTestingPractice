@@ -4,11 +4,16 @@
   "description": "",
   "main": "calculator.js",
   "scripts": {
-    "test": "jasmine"
+    "test": "karma start"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "karma": "^6.4.1"
+    "jasmine-core": "^4.6.0",
+    "karma": "^6.4.1",
+    "karma-chrome-launcher": "^3.1.1",
+    "karma-coverage": "^2.2.0",
+    "karma-jasmine": "^5.1.0",
+    "puppeteer": "^19.8.2"
   }
 }
